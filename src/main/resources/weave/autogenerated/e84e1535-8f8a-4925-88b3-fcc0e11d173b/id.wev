@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_e84e1535_8f8a_4925_88b3_fcc0e11d173b_Output_Variables_client_id = Any
+
